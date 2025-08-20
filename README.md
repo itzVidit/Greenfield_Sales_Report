@@ -74,6 +74,5 @@ This solution provides a powerful blueprint for any business looking to transfor
 
 
 ## Screenshots/Demo
-### Screenshots/Demo
 
 ![Greenfield Sales Report Preview](https://github.com/itzVidit/Greenfield_Sales_Report/blob/main/Overview.png)
