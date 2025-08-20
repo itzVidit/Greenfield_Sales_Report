@@ -1,7 +1,7 @@
-📈 Greenfield Sales Performance: An End-to-End Analytics Project
+1.📈 Greenfield Sales Performance: An End-to-End Analytics Project
 This repository contains my end-to-end analytics project, showcasing a comprehensive approach to business intelligence—from foundational data exploration in Python to an interactive, business-facing dashboard in Power BI.
 
-🎯 Project Goal
+2.🎯 Project Goal
 My objective was to transform raw sales data into actionable insights for the fictional company, Greenfield. The project was designed to:
 
 Uncover the "why" behind sales performance, moving beyond simple numbers to understand trends and drivers.
@@ -10,7 +10,7 @@ Empower business leaders to make proactive, data-backed decisions.
 
 Demonstrate a full analytics workflow, from data cleaning and analysis to dynamic visualization.
 
-🛠 Tech Stack
+3.🛠 Tech Stack
 The project leverages a robust and complementary toolset:
 
 Python: Used for the foundational data analysis and a deep dive into the dataset's characteristics.
@@ -27,7 +27,7 @@ DAX: For building custom measures and KPIs.
 
 Power Query: For data transformation and modeling.
 
-📊 The Story: From Data to Impact
+4.📊 The Story: From Data to Impact
 This project is a narrative told in two parts:
 
 Part 1: The Data Detective Work (Python EDA)
@@ -51,7 +51,7 @@ This section dives deeper, identifying the "Revenue Champions" and "High-Margin 
 3. Geographic & Customer Insights
 This page offers a regional and customer-level view of the business. It highlights top-performing states and customers and uses a map visual to show geographical sales distribution.
 
-🚀 Impact & Key Learnings
+5.🚀 Impact & Key Learnings
 This project wasn't just about creating a report; it was about creating a tool that could drive business change. By completing this project independently, I gained hands-on experience in:
 
 End-to-end Project Management: From raw data to a polished final product.
