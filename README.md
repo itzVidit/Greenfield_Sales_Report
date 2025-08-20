@@ -13,7 +13,7 @@ Demonstrate a full analytics workflow, from data cleaning and analysis to dynami
 🛠 Tech Stack
 The project leverages a robust and complementary toolset:
 
-🐍 Python: Used for the foundational data analysis and a deep dive into the dataset's characteristics.
+Python: Used for the foundational data analysis and a deep dive into the dataset's characteristics.
 
 Pandas: For data manipulation, cleaning, and preparation.
 
@@ -21,7 +21,7 @@ NumPy: For efficient numerical operations.
 
 Matplotlib: For creating exploratory data visualizations (EDA) that guided the dashboard's design.
 
-📊 Power BI: The core visualization tool used to create the final interactive dashboard.
+Power BI: The core visualization tool used to create the final interactive dashboard.
 
 DAX: For building custom measures and KPIs.
 
