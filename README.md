@@ -71,3 +71,9 @@ This project wasn't just about creating a report; it was about creating a tool t
 * **Data Visualization Storytelling**: Crafting a compelling narrative through visual design.
 
 This solution provides a powerful blueprint for any business looking to transform its data into a strategic advantage.
+
+
+## Screenshots/Demo
+### Screenshots/Demo
+
+![Greenfield Sales Report Preview](https://github.com/itzVidit/Greenfield_Sales_Report/blob/main/Overview.png)
